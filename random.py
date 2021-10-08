@@ -10,4 +10,5 @@ while k>0:
         print ('right answer > your answer k = ', k-1)
     elif answer == right:
         print ('congrats!! you won')
+        break
     k=k-1
