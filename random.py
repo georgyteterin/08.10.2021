@@ -12,3 +12,5 @@ while k>0:
         print ('congrats!! you won')
         break
     k=k-1
+if k=0:
+    print('you did not win')
